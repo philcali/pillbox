@@ -1,5 +1,7 @@
 # Pillbox
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox?ref=badge_shield)
+
 From wikipedia:
 
 > A pillbox is a type of blockhouse, or concrete dug-in guard-post, normally equipped with loopholes through which defenders can fire weapons. It is in effect a trench firing step, hardened to protect against small-arms fire and grenades, and raised to improve the field of fire.
