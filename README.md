@@ -1,6 +1,6 @@
 # Pillbox
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox?ref=badge_shield)
 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox?ref=badge_shield)
 
 From wikipedia:
 
@@ -40,3 +40,4 @@ Commands:
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fphilcali%2Fpillbox?ref=badge_large)
+
